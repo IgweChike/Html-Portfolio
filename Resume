@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title> My Resume </title>
+    </head>
+        <body>
+
+<h1>Denzel Chike Chike Jr</h1>
+
+    <h2>Summary</h2>
+    <p>Dedicated senior Data Science student at University of North Texas with experience in JavaScript, C++, and Python, seeking an entry-level Software Developer position. </p>
+    <hr/>
+
+    <h2>Education</h2>
+    <p>• B.S. in Data Science May 2023, College of Engineering, University of North Texas, Denton, TX </p>
+    <hr/>
+
+    <h2>Work Experience</h2>
+    <ul>
+        <li>CVS  – Sales Associate JAN 2020 –  2022  • Basic understanding of sales principles and customer service practices. Knowledge of customer and market dynamics and requirements. Ability to work as part of a team and take initiative independent of direct supervision. Experts of operation and efficiency making sure everything is set correctly. </li>
+        <li>Walmart  – Pharmacy Register Associate APR 2023 – AUG 2023 • Basic understanding of sales principles and customer service practices. providing excellent customer care service by answering phones, assisting customers in the process of finding their orders when they come to pick them up in the store, and entering patient information into the computer system; ringing up purchases and handling insurance. </li>
+    </ul>
+    
+    <hr/>
+
+    <h2>Skills</h2>
+    <ul> 
+      <li>Languages: Java (Advanced) | Python (Beginner) | C++ (Beginner)</li>
+      <li>Comfortable using microsoft applications.</li>
+      <li>Ability to work under pressure.</li>
+      <li>Good communication skills.</li>
+      <li>Great conflict resolution.</li>
+    </ul>
+
+
+    <hr/>
+
+    <ul>
+<li><a href="./Hobbies.html"> Hobbies</a></li>
+<li><a href="./contact.html"> Contact Me </a></li>    
+
+    </ul>
+    <p>© Denzel Chike. All rights reserved.</p>
+
+
+    
+    
+    
+    
+    
+
+
+
+        </body>
+</html>
